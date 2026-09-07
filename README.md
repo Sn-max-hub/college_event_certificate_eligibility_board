@@ -1,5 +1,5 @@
 # College Event Certificate Eligibility Board (SI26_P12)
-
+https://college-event-certificate-eligibili.vercel.app/
 A compact, polished, single-page **College Event Certificate Eligibility Board** developed for the Cisco AI-Assisted Coding Interview. The application evaluates participant certificate eligibility based on completed activities, category coverage, and point thresholds using pure, local in-memory data structures.
 
 ---
